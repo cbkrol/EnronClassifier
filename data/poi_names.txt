@@ -1,0 +1,37 @@
+http://usatoday30.usatoday.com/money/industries/energy/2005-12-28-enron-participants_x.htm
+
+1(y) Lay, Kenneth
+2(y) Skilling, Jeffrey
+3(n) Howard, Kevin
+4(n) Krautz, Michael
+5(n) Yeager, Scott
+6(n) Hirko, Joseph
+7(n) Shelby, Rex
+8(n) Bermingham, David
+9(n) Darby, Giles
+0(n) Mulgrew, Gary
+1(n) Bayley, Daniel
+2(n) Brown, James
+3(n) Furst, Robert
+4(n) Fuhs, William
+5(n) Causey, Richard
+6(n) Calger, Christopher
+7(n) DeSpain, Timothy
+8(n) Hannon, Kevin
+9(n) Koenig, Mark
+0(y) Forney, John
+1(n) Rice, Kenneth
+2(n) Rieker, Paula
+3(n) Fastow, Lea
+4(n) Fastow, Andrew
+5(y) Delainey, David
+6(n) Glisan, Ben
+7(n) Richter, Jeffrey
+8(n) Lawyer, Larry
+9(n) Belden, Timothy
+0(n) Kopper, Michael
+1(n) Duncan, David
+2(n) Bowen, Raymond
+3(n) Colwell, Wesley
+4(n) Boyle, Dan
+5(n) Loehr, Christopher
