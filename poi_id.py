@@ -52,7 +52,7 @@ feature_list = [
 
 
 # load data
-data_dict = pickle.load((open("../data/final_project_dataset.pkl", "rb")),fix_imports=True)
+data_dict = pickle.load((open("./data/final_project_dataset.pkl", "rb")),fix_imports=True)
 
 
 # Remove outliers/fix records
