@@ -2,7 +2,7 @@
 ## Identifying fraudsters at Enron
 
 #### Supervised Machine Learning in Python using scikit-learn
-<img src="dollar-2091763_3264s.jpg" alt="Drawing" style="width: 400px;"/>
+<img src="figures/dollar-2091763_3264s.jpg" alt="Drawing" style="width: 400px;"/>
 
 ##### by cbkrol
 
@@ -45,7 +45,7 @@ Exploring the dataset revealed an extreme outlier in the financial data, upon fu
 
 Salary and Bonus before and after dropping this outlier:
 
-<table><tr><td><img src='EnronWithOutliers.png'></td><td><img src='EnronWithoutOutliers.png'></td></tr></table>
+<table><tr><td><img src='figures/EnronWithOutliers.png'></td><td><img src='figures/EnronWithoutOutliers.png'></td></tr></table>
 
 #### Sparse Data
 
@@ -148,7 +148,7 @@ Scaling this information by computing the number of emails sent to or received f
 
 Both of these new features were added to the dataset for further evaluation during feature selection.
 
-<table><tr><td><img src='fromToPOI.png'></td><td><img src='fromToPOIRatios.png'></td></tr></table>
+<table><tr><td><img src='figures/fromToPOI.png'></td><td><img src='figures/fromToPOIRatios.png'></td></tr></table>
 
 
 ### Dimensionality reduction
@@ -474,11 +474,11 @@ Cross validation for the three algorithms produced the following confusion matri
 
 <table>
     <tr>
-        <td><img src='KNeighborsCM.png'></td>
-        <td><img src='DecisionTreeCM.png'></td>
+        <td><img src='figures/KNeighborsCM.png'></td>
+        <td><img src='figures/DecisionTreeCM.png'></td>
    </tr>
    <tr>
-         <td><img src='logisticRegressionCM.png'></td>
+         <td><img src='figures/logisticRegressionCM.png'></td>
    </tr>
  </table>
 
